@@ -4,6 +4,8 @@
 
 This is our teeam's Solution for Google's HashCode 2018 Qualification
 
+[@Ramez](https://github.com/Ramez-), [@Nader](https://github.com/naderdavid)
+
 ## Our score on the live round (37,350,366):
 ![score-live](pics/score-live.png)
 
